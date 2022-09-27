@@ -1,17 +1,59 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
+        "key": "ottofond",
+        "name": "Ottofond",
+        "slug": "ottofond",
+        "productCategory": "Ottofond",
+        "localThumb": "/assets/images/hersteller/ottofond.webp"
     },
     {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "villeroy & boch",
+        "name": "Villeroy & Boch",
+        "slug": "villeroy-boch",
+        "productCategory": "Villeroy & Boch",
+        "localThumb": "/assets/images/hersteller/villeroy-boch.webp"
+    },
+    {
+        "key": "ceravid",
+        "name": "Ceravid",
+        "slug": "ceravid",
+        "productCategory": "Ceravid",
+        "localThumb": "/assets/images/hersteller/ceravid.webp"
+    },
+    {
+        "key": "duravit",
+        "name": "Duravit",
+        "slug": "duravit",
+        "productCategory": "Duravit",
+        "localThumb": "/assets/images/hersteller/duravit.webp"
+    },
+    {
+        "key": "geberit",
+        "name": "Geberit",
+        "slug": "geberit",
+        "productCategory": "Geberit",
+        "localThumb": "/assets/images/hersteller/geberit.webp"
+    },
+    {
+        "key": "schulte",
+        "name": "Schulte",
+        "slug": "schulte",
+        "productCategory": "Schulte",
+        "localThumb": "/assets/images/hersteller/schulte.webp"
+    },
+    {
+        "key": "fackelmann",
+        "name": "Fackelmann",
+        "slug": "fackelmann",
+        "productCategory": "Fackelmann",
+        "localThumb": "/assets/images/hersteller/fackelmann.webp"
+    },
+    {
+        "key": "wenko",
+        "name": "Wenko",
+        "slug": "wenko",
+        "productCategory": "Wenko",
+        "localThumb": "/assets/images/hersteller/wenko.webp"
     },
     {
         "key": "sonstige",
@@ -21,66 +63,52 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "aurlane",
+        "name": "Aurlane",
+        "slug": "aurlane",
+        "productCategory": "Aurlane",
+        "localThumb": "/assets/images/hersteller/aurlane.webp"
     },
     {
-        "key": "obi",
-        "name": "OBI",
-        "slug": "obi",
-        "productCategory": "OBI",
-        "localThumb": "/assets/images/hersteller/obi.webp"
+        "key": "sanotechnik",
+        "name": "Sanotechnik",
+        "slug": "sanotechnik",
+        "productCategory": "Sanotechnik",
+        "localThumb": "/assets/images/hersteller/sanotechnik.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "aquasu",
+        "name": "AquaSu",
+        "slug": "aquasu",
+        "productCategory": "AquaSu",
+        "localThumb": "/assets/images/hersteller/aquasu.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "ideal standard",
+        "name": "Ideal Standard",
+        "slug": "ideal-standard",
+        "productCategory": "Ideal Standard",
+        "localThumb": "/assets/images/hersteller/ideal-standard.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "sanitop-wingenroth",
+        "name": "Sanitop-Wingenroth",
+        "slug": "sanitop-wingenroth",
+        "productCategory": "Sanitop-Wingenroth",
+        "localThumb": "/assets/images/hersteller/sanitop-wingenroth.webp"
     },
     {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
+        "key": "bwo",
+        "name": "BWO",
+        "slug": "bwo",
+        "productCategory": "BWO",
+        "localThumb": "/assets/images/hersteller/bwo.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
-    },
-    {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
-    },
-    {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "kaldewei",
+        "name": "Kaldewei",
+        "slug": "kaldewei",
+        "productCategory": "Kaldewei",
+        "localThumb": "/assets/images/hersteller/kaldewei.webp"
     }
 ]

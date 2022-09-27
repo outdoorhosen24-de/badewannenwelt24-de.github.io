@@ -1,107 +1,107 @@
 [
     {
-        "key": "insektenschutz",
-        "name": "Insektenschutz",
-        "slug": "insektenschutz",
-        "productCategory": "Insektenschutz",
+        "key": "badewannen-zubehör",
+        "name": "Badewannen-Zubehör",
+        "slug": "badewannen-zubehor",
+        "productCategory": "Badewannen-Zubehör",
         "subCategories": []
     },
     {
-        "key": "fliegengittertüren",
-        "name": "Fliegengittertüren",
-        "slug": "fliegengitterturen",
-        "productCategory": "Fliegengittertüren",
+        "key": "wannenträger",
+        "name": "Wannenträger",
+        "slug": "wannentrager",
+        "productCategory": "Wannenträger",
         "subCategories": []
     },
     {
-        "key": "plissees",
-        "name": "Plissees",
-        "slug": "plissees",
-        "productCategory": "Plissees",
+        "key": "ovale badewannen",
+        "name": "Ovale Badewannen",
+        "slug": "ovale-badewannen",
+        "productCategory": "Ovale Badewannen",
         "subCategories": []
     },
     {
-        "key": "insektenschutzrahmen",
-        "name": "Insektenschutzrahmen",
-        "slug": "insektenschutzrahmen",
-        "productCategory": "Insektenschutzrahmen",
+        "key": "rechteck-badewannen",
+        "name": "Rechteck-Badewannen",
+        "slug": "rechteck-badewannen",
+        "productCategory": "Rechteck-Badewannen",
         "subCategories": []
     },
     {
-        "key": "stil- & seilspanngarnituren",
-        "name": "Stil- & Seilspanngarnituren",
-        "slug": "stil-seilspanngarnituren",
-        "productCategory": "Stil- & Seilspanngarnituren",
+        "key": "eckbadewannen",
+        "name": "Eckbadewannen",
+        "slug": "eckbadewannen",
+        "productCategory": "Eckbadewannen",
         "subCategories": []
     },
     {
-        "key": "lamellenvorhänge",
-        "name": "Lamellenvorhänge",
-        "slug": "lamellenvorhange",
-        "productCategory": "Lamellenvorhänge",
+        "key": "badewannenaufsätze",
+        "name": "Badewannenaufsätze",
+        "slug": "badewannenaufsatze",
+        "productCategory": "Badewannenaufsätze",
         "subCategories": []
     },
     {
-        "key": "rollos & raffrollos",
-        "name": "Rollos & Raffrollos",
-        "slug": "rollos-raffrollos",
-        "productCategory": "Rollos & Raffrollos",
+        "key": "haarsiebe",
+        "name": "Haarsiebe",
+        "slug": "haarsiebe",
+        "productCategory": "Haarsiebe",
         "subCategories": []
     },
     {
-        "key": "jalousien",
-        "name": "Jalousien",
-        "slug": "jalousien",
-        "productCategory": "Jalousien",
+        "key": "freistehende badewannen",
+        "name": "Freistehende Badewannen",
+        "slug": "freistehende-badewannen",
+        "productCategory": "Freistehende Badewannen",
         "subCategories": []
     },
     {
-        "key": "gardinenschienen",
-        "name": "Gardinenschienen",
-        "slug": "gardinenschienen",
-        "productCategory": "Gardinenschienen",
+        "key": "whirlpool-badewannen",
+        "name": "Whirlpool-Badewannen",
+        "slug": "whirlpool-badewannen",
+        "productCategory": "Whirlpool-Badewannen",
         "subCategories": []
     },
     {
-        "key": "fenstervorhänge",
-        "name": "Fenstervorhänge",
-        "slug": "fenstervorhange",
-        "productCategory": "Fenstervorhänge",
+        "key": "badewannenstöpsel",
+        "name": "Badewannenstöpsel",
+        "slug": "badewannenstopsel",
+        "productCategory": "Badewannenstöpsel",
         "subCategories": []
     },
     {
-        "key": "vitragestangen",
-        "name": "Vitragestangen",
-        "slug": "vitragestangen",
-        "productCategory": "Vitragestangen",
+        "key": "badewannenfüße",
+        "name": "Badewannenfüße",
+        "slug": "badewannenfusse",
+        "productCategory": "Badewannenfüße",
         "subCategories": []
     },
     {
-        "key": "insektenschutzzubehör",
-        "name": "Insektenschutzzubehör",
-        "slug": "insektenschutzzubehor",
-        "productCategory": "Insektenschutzzubehör",
+        "key": "duschbadewannen",
+        "name": "Duschbadewannen",
+        "slug": "duschbadewannen",
+        "productCategory": "Duschbadewannen",
         "subCategories": []
     },
     {
-        "key": "türdichtungen & fensterdichtungen",
-        "name": "Türdichtungen & Fensterdichtungen",
-        "slug": "turdichtungen-fensterdichtungen",
-        "productCategory": "Türdichtungen & Fensterdichtungen",
+        "key": "raumsparwannen",
+        "name": "Raumsparwannen",
+        "slug": "raumsparwannen",
+        "productCategory": "Raumsparwannen",
         "subCategories": []
     },
     {
-        "key": "fliegengitterfenster",
-        "name": "Fliegengitterfenster",
-        "slug": "fliegengitterfenster",
-        "productCategory": "Fliegengitterfenster",
+        "key": "weiteres badewannen-zubehör",
+        "name": "Weiteres Badewannen-Zubehör",
+        "slug": "weiteres-badewannen-zubehor",
+        "productCategory": "Weiteres Badewannen-Zubehör",
         "subCategories": []
     },
     {
-        "key": "insektenschutznetze",
-        "name": "Insektenschutznetze",
-        "slug": "insektenschutznetze",
-        "productCategory": "Insektenschutznetze",
+        "key": "wannenschürzen",
+        "name": "Wannenschürzen",
+        "slug": "wannenschurzen",
+        "productCategory": "Wannenschürzen",
         "subCategories": []
     }
 ]
