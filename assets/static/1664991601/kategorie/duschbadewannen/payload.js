@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/duschbadewannen", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/ottofond-badewannen-set-free-gate-180-cm-x-80-cm-weisz-rechts-ottofond-4163267-1.jpg":"\u002Fassets\u002Fimages\u002Fottofond-badewannen-set-free-gate-180-cm-x-80-cm-weisz-rechts-ottofond-4163267-1.webp"}}],fetch:{},mutations:void 0});

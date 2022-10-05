@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/whirlpool-badewannen", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/ottofond-badewanne-nixe-170-cm-weisz-inkl-whirlpool-typ-3-chrom-pneumatisch-ottofond-6793392-1.jpg":"\u002Fassets\u002Fimages\u002Fottofond-badewanne-nixe-170-cm-weisz-inkl-whirlpool-typ-3-chrom-pneumatisch-ottofond-6793392-1.webp"}}],fetch:{},mutations:void 0});
