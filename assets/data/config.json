@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
+    "configIsReady": false,
     "domain": "badewannenwelt24.de",
     "hostname": "https://www.badewannenwelt24.de/",
     "email": "badewannenwelt24.desurrealnetworks.io",
     "organization": "badewannenwelt24.de",
     "logoText": "Badewannenwelt24.de",
     "title": "Badewannen",
-    "subline": "Der Online Shop f\u00fcr Badewannen",
+    "subline": "Der Online Shop für Badewannen",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -28,11 +28,11 @@
         "7101298"
     ],
     "featuredCategories": [
-        "Weiteres Badewannen-Zubeh\u00f6r",
-        "Wannensch\u00fcrzen",
-        "Badewannen-Zubeh\u00f6r",
-        "Wannensch\u00fcrzen",
-        "Badewannenaufs\u00e4tze",
+        "Weiteres Badewannen-Zubehör",
+        "Wannenschürzen",
+        "Badewannen-Zubehör",
+        "Wannenschürzen",
+        "Badewannenaufsätze",
         "Raumsparwannen"
     ],
     "socialMediaAccounts": [],
@@ -46,21 +46,21 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Badewannen",
-        "featureText": "Die Badewannen-Shop ist ein gro\u00dfer Online-Shop, der alles rund um Badewannen anbietet. Hier finden Sie eine gro\u00dfe Auswahl an verschiedenen Badewannen, Duschwannen, Whirlpools und Zubeh\u00f6r. Sie k\u00f6nnen aus vielen verschiedenen Materialien, Formen und Gr\u00f6\u00dfen w\u00e4hlen. Auch die Preise sind sehr unterschiedlich.",
+        "featureText": "Die Badewannen-Shop ist ein großer Online-Shop, der alles rund um Badewannen anbietet. Hier finden Sie eine große Auswahl an verschiedenen Badewannen, Duschwannen, Whirlpools und Zubehör. Sie können aus vielen verschiedenen Materialien, Formen und Größen wählen. Auch die Preise sind sehr unterschiedlich.",
         "index": {
-            "title": "Badewannen-Shop: Alles f\u00fcr Ihre Badewanne",
+            "title": "Badewannen-Shop: Alles für Ihre Badewanne",
             "metaDescription": "In unserem Shop finden Sie alles rund um die Badewanne. Von der Standardbadewanne bis zur Luxusbadewanne.",
             "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Badewannen: Die besten Tipps f\u00fcr die perfekte Wanne",
-                    "text": "Badewannen sind eine gro\u00dfartige Erfindung. Sie sind bequem, entspannend und einfach zu benutzen. Aber was ist eine Badewanne? Eine Badewanne ist ein gro\u00dfes, tiefes Becken, das mit Wasser gef\u00fcllt wird, um in ihm zu baden. Badewannen wurden in der Antike erfunden und waren zun\u00e4chst aus Stein oder Holz gefertigt. Sp\u00e4ter wurden sie aus Metall, Keramik oder Kunststoff hergestellt. Heutzutage gibt es viele verschiedene Arten von Badewannen, von denen jede ihre eigenen Vor- und Nachteile hat.\n\nDie meisten Badewannen sind rechteckig, aber es gibt auch runde und ovale Badewannen. Rechteckige Badewannen bieten in der Regel mehr Platz, da sie l\u00e4nger und breiter sind als runde Badewannen. Oval- und runde Badewannen sind jedoch oft sch\u00f6ner und k\u00f6nnen in kleinere Badezimmer passen. Badewannen gibt es in vielen verschiedenen Gr\u00f6\u00dfen, von kleinen Wannen f\u00fcr eine Person bis hin zu gro\u00dfen Wannen, die mehrere Personen aufnehmen k\u00f6nnen.\n\nBadewannen k\u00f6nnen aus vielen verschiedenen Materialien hergestellt werden, aber die meisten sind entweder aus Metall, Keramik oder Kunststoff. Metallbadewannen sind in der Regel die billigsten, aber sie k\u00f6nnen leicht Rost ansetzen und sind daher nicht so langlebig wie andere Arten von Badewannen. Keramikbadewannen sind teurer als Metallbadewannen, aber sie sind langle"
+                    "title": "Badewannen: Die besten Tipps für die perfekte Wanne",
+                    "text": "Badewannen sind eine großartige Erfindung. Sie sind bequem, entspannend und einfach zu benutzen. Aber was ist eine Badewanne? Eine Badewanne ist ein großes, tiefes Becken, das mit Wasser gefüllt wird, um in ihm zu baden. Badewannen wurden in der Antike erfunden und waren zunächst aus Stein oder Holz gefertigt. Später wurden sie aus Metall, Keramik oder Kunststoff hergestellt. Heutzutage gibt es viele verschiedene Arten von Badewannen, von denen jede ihre eigenen Vor- und Nachteile hat.\n\nDie meisten Badewannen sind rechteckig, aber es gibt auch runde und ovale Badewannen. Rechteckige Badewannen bieten in der Regel mehr Platz, da sie länger und breiter sind als runde Badewannen. Oval- und runde Badewannen sind jedoch oft schöner und können in kleinere Badezimmer passen. Badewannen gibt es in vielen verschiedenen Größen, von kleinen Wannen für eine Person bis hin zu großen Wannen, die mehrere Personen aufnehmen können.\n\nBadewannen können aus vielen verschiedenen Materialien hergestellt werden, aber die meisten sind entweder aus Metall, Keramik oder Kunststoff. Metallbadewannen sind in der Regel die billigsten, aber sie können leicht Rost ansetzen und sind daher nicht so langlebig wie andere Arten von Badewannen. Keramikbadewannen sind teurer als Metallbadewannen, aber sie sind langle"
                 }
             ]
         },
         "shop": {
             "title": "Badewannen Shop",
-            "metaDescription": "Der Shop bietet eine gro\u00dfe Auswahl an Badewannen in verschiedenen Gr\u00f6\u00dfen, Formen und Ausf\u00fchrungen.",
+            "metaDescription": "Der Shop bietet eine große Auswahl an Badewannen in verschiedenen Größen, Formen und Ausführungen.",
             "robots": "index, follow"
         },
         "hersteller": {
@@ -70,24 +70,24 @@
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT: Die besten Badewannen f\u00fcr Ihr Zuhause",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Wahl f\u00fcr Ihre $KATEGORIE. Wir bieten Ihnen eine gro\u00dfe Auswahl an $PRODUKTEN mit verschiedenen Designs und Ausstattungen.",
+        "defaultTitle": "$PRODUKT: Die besten Badewannen für Ihr Zuhause",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Wahl für Ihre $KATEGORIE. Wir bieten Ihnen eine große Auswahl an $PRODUKTEN mit verschiedenen Designs und Ausstattungen.",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
         ]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Die besten Badewannen f\u00fcr Ihr Zuhause",
-        "defaultMetaDescription": "$KATEGORIE Badewannen - Finde die perfekte Badewanne f\u00fcr dein Zuhause. Wir bieten eine gro\u00dfe Auswahl an Badewannen in verschiedenen Gr\u00f6\u00dfen, Formen und Designs.",
+        "defaultTitle": "$KATEGORIE: Die besten Badewannen für Ihr Zuhause",
+        "defaultMetaDescription": "$KATEGORIE Badewannen - Finde die perfekte Badewanne für dein Zuhause. Wir bieten eine große Auswahl an Badewannen in verschiedenen Größen, Formen und Designs.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER Badewannen sind die perfekte Erg\u00e4nzung f\u00fcr Ihr Badezimmer. Wir bieten eine gro\u00dfe Auswahl an Badewannen in verschiedenen Gr\u00f6\u00dfen und Stilen.",
+        "defaultMetaDescription": "$HERSTELLER Badewannen sind die perfekte Ergänzung für Ihr Badezimmer. Wir bieten eine große Auswahl an Badewannen in verschiedenen Größen und Stilen.",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
