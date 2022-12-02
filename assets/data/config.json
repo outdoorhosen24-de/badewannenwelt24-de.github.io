@@ -51,12 +51,15 @@
             "title": "Badewannen-Shop: Alles für Ihre Badewanne",
             "metaDescription": "In unserem Shop finden Sie alles rund um die Badewanne. Von der Standardbadewanne bis zur Luxusbadewanne.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Badewannen: Die besten Tipps für die perfekte Wanne",
-                    "text": "Badewannen sind eine großartige Erfindung. Sie sind bequem, entspannend und einfach zu benutzen. Aber was ist eine Badewanne? Eine Badewanne ist ein großes, tiefes Becken, das mit Wasser gefüllt wird, um in ihm zu baden. Badewannen wurden in der Antike erfunden und waren zunächst aus Stein oder Holz gefertigt. Später wurden sie aus Metall, Keramik oder Kunststoff hergestellt. Heutzutage gibt es viele verschiedene Arten von Badewannen, von denen jede ihre eigenen Vor- und Nachteile hat.\n\nDie meisten Badewannen sind rechteckig, aber es gibt auch runde und ovale Badewannen. Rechteckige Badewannen bieten in der Regel mehr Platz, da sie länger und breiter sind als runde Badewannen. Oval- und runde Badewannen sind jedoch oft schöner und können in kleinere Badezimmer passen. Badewannen gibt es in vielen verschiedenen Größen, von kleinen Wannen für eine Person bis hin zu großen Wannen, die mehrere Personen aufnehmen können.\n\nBadewannen können aus vielen verschiedenen Materialien hergestellt werden, aber die meisten sind entweder aus Metall, Keramik oder Kunststoff. Metallbadewannen sind in der Regel die billigsten, aber sie können leicht Rost ansetzen und sind daher nicht so langlebig wie andere Arten von Badewannen. Keramikbadewannen sind teurer als Metallbadewannen, aber sie sind langle"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Badewannen: Die besten Tipps für die perfekte Wanne",
+                        "text": "Badewannen sind eine großartige Erfindung. Sie sind bequem, entspannend und einfach zu benutzen. Aber was ist eine Badewanne? Eine Badewanne ist ein großes, tiefes Becken, das mit Wasser gefüllt wird, um in ihm zu baden. Badewannen wurden in der Antike erfunden und waren zunächst aus Stein oder Holz gefertigt. Später wurden sie aus Metall, Keramik oder Kunststoff hergestellt. Heutzutage gibt es viele verschiedene Arten von Badewannen, von denen jede ihre eigenen Vor- und Nachteile hat.\n\nDie meisten Badewannen sind rechteckig, aber es gibt auch runde und ovale Badewannen. Rechteckige Badewannen bieten in der Regel mehr Platz, da sie länger und breiter sind als runde Badewannen. Oval- und runde Badewannen sind jedoch oft schöner und können in kleinere Badezimmer passen. Badewannen gibt es in vielen verschiedenen Größen, von kleinen Wannen für eine Person bis hin zu großen Wannen, die mehrere Personen aufnehmen können.\n\nBadewannen können aus vielen verschiedenen Materialien hergestellt werden, aber die meisten sind entweder aus Metall, Keramik oder Kunststoff. Metallbadewannen sind in der Regel die billigsten, aber sie können leicht Rost ansetzen und sind daher nicht so langlebig wie andere Arten von Badewannen. Keramikbadewannen sind teurer als Metallbadewannen, aber sie sind langle"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Badewannen Shop",
