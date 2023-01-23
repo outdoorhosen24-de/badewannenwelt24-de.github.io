@@ -1,5 +1,5 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "badewannenwelt24.de",
     "hostname": "https://www.badewannenwelt24.de/",
     "email": "badewannenwelt24.de@surrealnetworks.io",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Badewannen",
-        "featureText": "Die Badewannen-Shop ist ein großer Online-Shop, der alles rund um Badewannen anbietet. Hier finden Sie eine große Auswahl an verschiedenen Badewannen, Duschwannen, Whirlpools und Zubehör. Sie können aus vielen verschiedenen Materialien, Formen und Größen wählen. Auch die Preise sind sehr unterschiedlich.",
+        "featureText": "Wir sind dein Online Shop für Badewannen und Badewannen-Zubehör. Auf badewannenwelt24d.de findest du alle möglichen Arten von Badewannen, welche du dir online zu einem günstigen Preis nach Hause bestellen kannst. Unter anderem findest du bei uns Badewannen wie Whirlpool-Badewannen, freistehende Badewannen, Wannenträger, Eckbadewannen, Duschbadewannen und Raumsparwannen sowie viel Zubehör. Wir listen ausschließlich Badewannen, welche von renommierten Herstellern wie Villeroy & Boch, Wenko, Schule, Ceravid, AquaSu, Kaldewei und vielen weiteren, hergestellt werden. Wir wünschen viel Spaß beim stöbern. Euer BadewannenWelt24-Team.",
         "index": {
-            "title": "Badewannen-Shop: Alles für Ihre Badewanne",
-            "metaDescription": "In unserem Shop finden Sie alles rund um die Badewanne. Von der Standardbadewanne bis zur Luxusbadewanne.",
+            "title": "Günstige Badewannen online bestellen auf BadewannenWelt24",
+            "metaDescription": "Badewannenwelt24 bietet top Produkte und Marken wie Villeroy & Boch, Kaldewei und Duravit. Whirlpools, Duschbadewannen, Eckbadewannen, Zubehör, uvm.",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Badewannen Shop",
-            "metaDescription": "Der Shop bietet eine große Auswahl an Badewannen in verschiedenen Größen, Formen und Ausführungen.",
+            "title": "Badewannen Shop Übersicht",
+            "metaDescription": "Der Shop bietet eine große Auswahl an Badewannen in verschiedenen Größen, Formen und Ausführungen. Top Marken und top Preise. Schnelle Lieferung.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Badewannen-Hersteller",
-            "metaDescription": "Badewannen-Hersteller: Finden Sie die besten Badewannen-Hersteller und -Anbieter in Deutschland. Vergleichen Sie Preise, Leistungen und Bewertungen.",
+            "title": "Übersicht aller Badewannen-Hersteller und deren Produkte",
+            "metaDescription": "Badewannen-Hersteller: Finden Sie die besten Badewannen-Hersteller in Deutschland und bestellen Sie online. Vergleichen Sie Preise, Leistungen und Bewertungen.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT: Die besten Badewannen für Ihr Zuhause",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Wahl für Ihre $KATEGORIE. Wir bieten Ihnen eine große Auswahl an $PRODUKTEN mit verschiedenen Designs und Ausstattungen.",
+        "defaultTitle": "$PRODUKT | Badewannenwelt24",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Wahl für Ihr Badezimmer. Wir bieten Ihnen eine große Auswahl aus der Kategorie $KATEGORIE.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Die besten Badewannen für Ihr Zuhause",
-        "defaultMetaDescription": "$KATEGORIE Badewannen - Finde die perfekte Badewanne für dein Zuhause. Wir bieten eine große Auswahl an Badewannen in verschiedenen Größen, Formen und Designs.",
+        "defaultTitle": "$KATEGORIE | Badewannenwelt24",
+        "defaultMetaDescription": "$KATEGORIE - Finde die perfekte Badewanne und Zubehör für dein Zuhause. Wir bieten eine große Auswahl an Badewannen in verschiedenen Größen, Formen und Designs.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER Badewannen sind die perfekte Ergänzung für Ihr Badezimmer. Wir bieten eine große Auswahl an Badewannen in verschiedenen Größen und Stilen.",
+        "defaultTitle": "Produkte von $HERSTELLER | Badewannenwelt24",
+        "defaultMetaDescription": "$HERSTELLER ist ein Hersteller für Badewannen und Badewannen-Zubehör. Vergleichen Sie Badewannen von $HERSTELLER mit anderen Herstellern.",
         "defaultRobots": "index, follow",
         "brands": [
             {
