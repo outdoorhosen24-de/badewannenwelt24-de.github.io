@@ -2,14 +2,14 @@
     {
         "key": "badewannen-zubehör",
         "name": "Badewannen-Zubehör",
-        "slug": "badewannen-zubehor",
+        "slug": "badewannen-zubehoer",
         "productCategory": "Badewannen-Zubehör",
         "subCategories": []
     },
     {
         "key": "wannenträger",
         "name": "Wannenträger",
-        "slug": "wannentrager",
+        "slug": "wannentraeger",
         "productCategory": "Wannenträger",
         "subCategories": []
     },
@@ -37,7 +37,7 @@
     {
         "key": "badewannenaufsätze",
         "name": "Badewannenaufsätze",
-        "slug": "badewannenaufsatze",
+        "slug": "badewannenaufsaetze",
         "productCategory": "Badewannenaufsätze",
         "subCategories": []
     },
@@ -65,14 +65,14 @@
     {
         "key": "badewannenstöpsel",
         "name": "Badewannenstöpsel",
-        "slug": "badewannenstopsel",
+        "slug": "badewannenstoepsel",
         "productCategory": "Badewannenstöpsel",
         "subCategories": []
     },
     {
         "key": "badewannenfüße",
         "name": "Badewannenfüße",
-        "slug": "badewannenfusse",
+        "slug": "badewannenfuesse",
         "productCategory": "Badewannenfüße",
         "subCategories": []
     },
@@ -93,14 +93,14 @@
     {
         "key": "weiteres badewannen-zubehör",
         "name": "Weiteres Badewannen-Zubehör",
-        "slug": "weiteres-badewannen-zubehor",
+        "slug": "weiteres-badewannen-zubehoer",
         "productCategory": "Weiteres Badewannen-Zubehör",
         "subCategories": []
     },
     {
         "key": "wannenschürzen",
         "name": "Wannenschürzen",
-        "slug": "wannenschurzen",
+        "slug": "wannenschuerzen",
         "productCategory": "Wannenschürzen",
         "subCategories": []
     }
