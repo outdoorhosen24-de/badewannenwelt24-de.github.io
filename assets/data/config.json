@@ -1,224 +1,227 @@
 {
-    "configIsReady": true,
-    "domain": "badewannenwelt24.de",
-    "hostname": "https://www.badewannenwelt24.de/",
-    "email": "badewannenwelt24.de@surrealnetworks.io",
-    "organization": "badewannenwelt24.de",
-    "logoText": "Badewannenwelt24.de",
-    "title": "Badewannen",
-    "subline": "Der Online Shop für Badewannen",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "6739569",
-        "7608938",
-        "4921219",
-        "9845702",
-        "7322993",
-        "2586352"
-    ],
-    "winnerProducts": [
-        "8521155",
-        "4926762",
-        "7101298"
-    ],
-    "featuredCategories": [
-        "Weiteres Badewannen-Zubehör",
-        "Wannenschürzen",
-        "Badewannen-Zubehör",
-        "Wannenschürzen",
-        "Badewannenaufsätze",
-        "Raumsparwannen"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Badewannen",
-        "featureText": "Wir sind dein Online Shop für Badewannen und Badewannen-Zubehör. Auf badewannenwelt24d.de findest du alle möglichen Arten von Badewannen, welche du dir online zu einem günstigen Preis nach Hause bestellen kannst. Unter anderem findest du bei uns Badewannen wie Whirlpool-Badewannen, freistehende Badewannen, Wannenträger, Eckbadewannen, Duschbadewannen und Raumsparwannen sowie viel Zubehör. Wir listen ausschließlich Badewannen, welche von renommierten Herstellern wie Villeroy & Boch, Wenko, Schule, Ceravid, AquaSu, Kaldewei und vielen weiteren, hergestellt werden. Wir wünschen viel Spaß beim stöbern. Euer BadewannenWelt24-Team.",
-        "index": {
-            "title": "Günstige Badewannen online bestellen auf BadewannenWelt24",
-            "metaDescription": "Badewannenwelt24 bietet top Produkte und Marken wie Villeroy & Boch, Kaldewei und Duravit. Whirlpools, Duschbadewannen, Eckbadewannen, Zubehör, uvm.",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen bei Badewannenwelt24!",
-                        "text": "Herzlich willkommen auf Badewannenwelt24, Ihrem Online-Shop für hochwertige Badewannen und Zubehör. Bei uns finden Sie eine breite Auswahl an Badewannen in verschiedenen Formen und Größen, darunter ovale, rechteckige und eckige Badewannen sowie Freistehende und Whirlpool-Badewannen.Zusätzlich bieten wir Ihnen eine große Auswahl an Zubehör, darunter Wannenträger, Badewannenaufsätze, Haarsiebe, Badewannenstöpsel, Badewannenfüße und vieles mehr. Unser Ziel ist es, Ihnen dabei zu helfen, Ihr Badezimmer in einen erholsamen Rückzugsort zu verwandeln, in dem Sie sich nach einem anstrengenden Tag entspannen können.Wir legen großen Wert auf Qualität und Kundenzufriedenheit, deshalb bieten wir Ihnen nur Produkte an, die den höchsten Standards entsprechen. Unser Team steht Ihnen jederzeit zur Verfügung, um Ihnen bei Fragen und Anliegen weiterzuhelfen.Schauen Sie sich jetzt in unserem Online-Shop um und entdecken Sie die Vielfalt an Badewannen und Zubehör. Wir sind sicher, dass Sie bei uns das perfekte Produkt für Ihr Badezimmer finden werden."
-                    },
-                    {
-                        "title": "Badewannen-Zubehör",
-                        "text": "<a href=\"/kategorie/badewannen-zubehoer/\" title=\"Badewannen-Zubehör\">Badewannen-Zubehör</a> ist eine wichtige Kategorie für alle, die ihr Bad modernisieren oder aufwerten möchten. Hier finden Sie alles, was Sie für den täglichen Gebrauch benötigen, wie Griffe, Überlaufgarnituren, Ablaufstöpsel und vieles mehr. Jedes Produkt ist sorgfältig ausgewählt und bietet eine hervorragende Qualität zu einem angemessenen Preis. Überzeugen Sie sich selbst von unserem breiten Sortiment an Badewannen-Zubehör."
-                    },
-                    {
-                        "title": "Wannenträger",
-                        "text": "<a href=\"/kategorie/wannentraeger/\" title=\"Wannenträger\">Wannenträger</a> sind ein wesentlicher Bestandteil einer jeden Badewanne. Sie stellen sicher, dass Ihre Wanne stabil und sicher montiert ist. In unserer Kategorie Wannenträger finden Sie eine große Auswahl an verschiedenen Modellen, die auf jeden Bedarf und jeden Einrichtungsstil abgestimmt sind. Ob Sie einen klassischen oder modernen Stil bevorzugen, wir haben die passenden Wannenträger für Sie. Überzeugen Sie sich jetzt von unserer hohen Qualität und dem fairen Preis."
-                    },
-                    {
-                        "title": "Ovale Badewannen",
-                        "text": "<a href=\"/kategorie/ovale-badewannen/\" title=\"Ovale Badewannen\">Ovale Badewannen</a> sind eine elegante und stilvolle Ergänzung für jedes Badezimmer. Sie bieten eine angenehme und bequeme Sitzposition und eignen sich perfekt für entspannte Badepausen. In unserer Kategorie Ovale Badewannen finden Sie eine große Auswahl an verschiedenen Größen und Designs, die jedem Bedarf und jedem Einrichtungsstil entsprechen. Entdecken Sie jetzt die Vielfalt an ovalen Badewannen und finden Sie die perfekte Wanne für Ihr Badezimmer."
-                    },
-                    {
-                        "title": "Rechteck-Badewannen",
-                        "text": "<a href=\"/kategorie/rechteck-badewannen/\" title=\"Rechteck-Badewannen\">Rechteck-Badewannen</a> sind eine perfekte Wahl für jedes Badezimmer. Sie bieten eine geräumige und bequeme Bademöglichkeit und passen zu jedem Einrichtungsstil. In unserer Kategorie Rechteck-Badewannen finden Sie eine große Auswahl an verschiedenen Größen und Designs, die jedem Bedarf und jedem Budget entsprechen. Entdecken Sie jetzt die Vielfalt an rechteckigen Badewannen und finden Sie die perfekte Wanne für Ihr Badezimmer."
-                    },
-                    {
-                        "title": "Eckbadewannen",
-                        "text": "<a href=\"/kategorie/eckbadewannen/\" title=\"Eckbadewannen\">Eckbadewannen</a> sind eine clevere Lösung für kleine Badezimmer, da sie Platz sparen und gleichzeitig eine bequeme Bademöglichkeit bieten. In unserer Kategorie Eckbadewannen finden Sie eine große Auswahl an verschiedenen Größen und Designs, die jedem Bedarf und jedem Einrichtungsstil entsprechen. Entdecken Sie jetzt die Vielfalt an Eckbadewannen und finden Sie die perfekte Wanne für Ihr Badezimmer."
-                    },
-                    {
-                        "title": "Badewannenaufsätze",
-                        "text": "<a href=\"/kategorie/badewannenaufsaetze/\" title=\"Badewannenaufsätze\">Badewannenaufsätze</a> sind eine praktische und bequeme Ergänzung für Ihre Badewanne. Sie ermöglichen es Ihnen, bequem im Stehen zu duschen und sparen Platz im Badezimmer. In unserer Kategorie Badewannenaufsätze finden Sie eine große Auswahl an verschiedenen Modellen, die auf jeden Bedarf und jeden Einrichtungsstil abgestimmt sind. Entdecken Sie jetzt die Vielfalt an Badewannenaufsätzen und finden Sie die perfekte Ergänzung für Ihre Badewanne."
-                    },
-                    {
-                        "title": "Haarsiebe",
-                        "text": "<a href=\"/kategorie/haarsiebe/\" title=\"Haarsiebe\">Haarsiebe</a> sind ein unverzichtbarer Bestandteil jeder Dusche oder Badewanne. Sie verhindern, dass Haare und andere Ablagerungen in den Abfluss gelangen und sorgen so für einen reibungslosen Ablauf. In unserer Kategorie Haarsiebe finden Sie eine große Auswahl an verschiedenen Modellen, die auf jeden Bedarf und jeden Einrichtungsstil abgestimmt sind. Entdecken Sie jetzt die Vielfalt an Haarsieben und finden Sie das perfekte Modell für Ihr Badezimmer."
-                    },
-                    {
-                        "title": "Freistehende Badewannen",
-                        "text": "<a href=\"/kategorie/freistehende-badewannen/\" title=\"Freistehende Badewannen\">Freistehende Badewannen</a> sind eine stilvolle und moderne Ergänzung für jedes Badezimmer. Sie bieten eine angenehme und bequeme Bademöglichkeit und können frei im Raum platziert werden. In unserer Kategorie Freistehende Badewannen finden Sie eine große Auswahl an verschiedenen Größen und Designs, die jedem Bedarf und jedem Einrichtungsstil entsprechen. Entdecken Sie jetzt die Vielfalt an freistehenden Badewannen und finden Sie die perfekte Wanne für Ihr Badezimmer."
-                    },
-                    {
-                        "title": "Whirlpool-Badewannen",
-                        "text": "<a href=\"/kategorie/whirlpool-badewannen/\" title=\"Whirlpool-Badewannen\">Whirlpool-Badewannen</a> sind eine luxuriöse und entspannende Ergänzung für jedes Badezimmer. Sie bieten eine Massagefunktion und eine bequeme Bademöglichkeit. In unserer Kategorie Whirlpool-Badewannen finden Sie eine große Auswahl an verschiedenen Größen und Designs, die jedem Bedarf und jedem Einrichtungsstil entsprechen. Entdecken Sie jetzt die Vielfalt an Whirlpool-Badewannen und finden Sie die perfekte Wanne für Ihr Badezimmer."
-                    },
-                    {
-                        "title": "Badewannenstöpsel",
-                        "text": "<a href=\"/kategorie/badewannenstoepsel/\" title=\"Badewannenstöpsel\">Badewannenstöpsel</a> sind ein wichtiger Bestandteil jeder Badewanne. Sie verhindern, dass Wasser aus der Wanne abläuft und sorgen so für ein angenehmes Bad. In unserer Kategorie Badewannenstöpsel finden Sie eine große Auswahl an verschiedenen Modellen, die auf jeden Bedarf und jeden Einrichtungsstil abgestimmt sind. Entdecken Sie jetzt die Vielfalt an Badewannenstöpseln und finden Sie den perfekten Stöpsel für Ihre Badewanne."
-                    },
-                    {
-                        "title": "Badewannenfüße",
-                        "text": "<a href=\"/kategorie/badewannenfuesse/\" title=\"Badewannenfüsse\">Badewannenfüsse</a> sind ein wesentlicher Bestandteil jeder Badewanne. Sie stellen sicher, dass Ihre Wanne stabil und sicher montiert ist. In unserer Kategorie Badewannenfüße finden Sie eine große Auswahl an verschiedenen Modellen, die auf jeden Bedarf und jeden Einrichtungsstil abgestimmt sind. Ob Sie einen klassischen oder modernen Stil bevorzugen, wir haben die passenden Badewannenfüße für Sie. Überzeugen Sie sich jetzt von unserer hohen Qualität und dem fairen Preis."
-                    },
-                    {
-                        "title": "Duschbadewannen",
-                        "text": "<a href=\"/kategorie/duschbadewannen/\" title=\"Duschbadewannen\">Duschbadewannen</a> sind eine praktische und bequeme Ergänzung für jedes Badezimmer. Sie ermöglichen es Ihnen, bequem zu duschen und gleichzeitig ein angenehmes Bad zu genießen. In unserer Kategorie Duschbadewannen finden Sie eine große Auswahl an verschiedenen Größen und Designs, die jedem Bedarf und jedem Einrichtungsstil entsprechen. Entdecken Sie jetzt die Vielfalt an Duschbadewannen und finden Sie die perfekte Wanne für Ihr Badezimmer."
-                    },
-                    {
-                        "title": "Raumsparwannen",
-                        "text": "<a href=\"/kategorie/raumsparwannen/\" title=\"Raumsparwannen\">Raumsparwannen</a> sind eine praktische und platzsparende Lösung für kleine Badezimmer. Sie bieten eine angenehme Bademöglichkeit und sparen gleichzeitig wertvollen Platz. In unserer Kategorie Raumsparwannen finden Sie eine große Auswahl an verschiedenen Größen und Designs, die auf jeden Bedarf und jeden Einrichtungsstil abgestimmt sind. Entdecken Sie jetzt die Vielfalt an Raumsparwannen und finden Sie die perfekte Wanne für Ihr kleines Badezimmer."
-                    },
-                    {
-                        "title": "Weiteres Badewannen-Zubehör",
-                        "text": "Das Weitere Badewannen-Zubehör ist ein unverzichtbarer Bestandteil jeder Badewanne. Es sorgt für mehr Komfort und Sicherheit beim Baden. In unserer Kategorie <a href=\"/kategorie/weiteres-badewannen-zubehoer/\" title=\"Weiteres Badewannen-Zubehör\">Weiteres Badewannen-Zubehör</a> finden Sie eine große Auswahl an verschiedenen Modellen, die auf jeden Bedarf und jeden Einrichtungsstil abgestimmt sind. Entdecken Sie jetzt die Vielfalt an weiterem Badewannen-Zubehör und finden Sie das perfekte Modell für Ihre Badewanne."
-                    },
-                    {
-                        "title": "Wannenschürzen",
-                        "text": "<a href=\"/kategorie/wannenschuerzen/\" title=\"Wannenschürzen\">Wannenschürzen</a> sind eine praktische und stilvolle Ergänzung für jede Badewanne. Sie schützen die Umgebung vor Spritzwasser und sorgen für ein angenehmes Bad. In unserer Kategorie Wannenschürzen finden Sie eine große Auswahl an verschiedenen Größen und Designs, die auf jeden Bedarf und jeden Einrichtungsstil abgestimmt sind. Entdecken Sie jetzt die Vielfalt an Wannenschürzen und finden Sie die perfekte Schürze für Ihre Badewanne."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Badewannen Shop Übersicht",
-            "metaDescription": "Der Shop bietet eine große Auswahl an Badewannen in verschiedenen Größen, Formen und Ausführungen. Top Marken und top Preise. Schnelle Lieferung.",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Übersicht aller Badewannen-Hersteller und deren Produkte",
-            "metaDescription": "Badewannen-Hersteller: Finden Sie die besten Badewannen-Hersteller in Deutschland und bestellen Sie online. Vergleichen Sie Preise, Leistungen und Bewertungen.",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT | Badewannenwelt24",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Wahl für Ihr Badezimmer. Wir bieten Ihnen eine große Auswahl aus der Kategorie $KATEGORIE.",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "badewannenwelt24.de",
+  "hostname": "https://www.badewannenwelt24.de/",
+  "email": "badewannenwelt24.de@surrealnetworks.io",
+  "organization": "badewannenwelt24.de",
+  "logoText": "Badewannenwelt24.de",
+  "title": "Badewannen",
+  "subline": "Der Online Shop f\u00fcr Badewannen",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "6739569",
+    "7608938",
+    "4921219",
+    "9845702",
+    "7322993",
+    "2586352"
+  ],
+  "winnerProducts": [
+    "8521155",
+    "4926762",
+    "7101298"
+  ],
+  "featuredCategories": [
+    "Weiteres Badewannen-Zubeh\u00f6r",
+    "Wannensch\u00fcrzen",
+    "Badewannen-Zubeh\u00f6r",
+    "Wannensch\u00fcrzen",
+    "Badewannenaufs\u00e4tze",
+    "Raumsparwannen"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Badewannen",
+    "featureText": "Wir sind dein Online Shop f\u00fcr Badewannen und Badewannen-Zubeh\u00f6r. Auf badewannenwelt24d.de findest du alle m\u00f6glichen Arten von Badewannen, welche du dir online zu einem g\u00fcnstigen Preis nach Hause bestellen kannst. Unter anderem findest du bei uns Badewannen wie Whirlpool-Badewannen, freistehende Badewannen, Wannentr\u00e4ger, Eckbadewannen, Duschbadewannen und Raumsparwannen sowie viel Zubeh\u00f6r. Wir listen ausschlie\u00dflich Badewannen, welche von renommierten Herstellern wie Villeroy & Boch, Wenko, Schule, Ceravid, AquaSu, Kaldewei und vielen weiteren, hergestellt werden. Wir w\u00fcnschen viel Spa\u00df beim st\u00f6bern. Euer BadewannenWelt24-Team.",
+    "index": {
+      "title": "G\u00fcnstige Badewannen online bestellen auf BadewannenWelt24",
+      "metaDescription": "Badewannenwelt24 bietet top Produkte und Marken wie Villeroy & Boch, Kaldewei und Duravit. Whirlpools, Duschbadewannen, Eckbadewannen, Zubeh\u00f6r, uvm.",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen bei Badewannenwelt24!",
+            "text": "Herzlich willkommen auf Badewannenwelt24, Ihrem Online-Shop f\u00fcr hochwertige Badewannen und Zubeh\u00f6r. Bei uns finden Sie eine breite Auswahl an Badewannen in verschiedenen Formen und Gr\u00f6\u00dfen, darunter ovale, rechteckige und eckige Badewannen sowie Freistehende und Whirlpool-Badewannen.Zus\u00e4tzlich bieten wir Ihnen eine gro\u00dfe Auswahl an Zubeh\u00f6r, darunter Wannentr\u00e4ger, Badewannenaufs\u00e4tze, Haarsiebe, Badewannenst\u00f6psel, Badewannenf\u00fc\u00dfe und vieles mehr. Unser Ziel ist es, Ihnen dabei zu helfen, Ihr Badezimmer in einen erholsamen R\u00fcckzugsort zu verwandeln, in dem Sie sich nach einem anstrengenden Tag entspannen k\u00f6nnen.Wir legen gro\u00dfen Wert auf Qualit\u00e4t und Kundenzufriedenheit, deshalb bieten wir Ihnen nur Produkte an, die den h\u00f6chsten Standards entsprechen. Unser Team steht Ihnen jederzeit zur Verf\u00fcgung, um Ihnen bei Fragen und Anliegen weiterzuhelfen.Schauen Sie sich jetzt in unserem Online-Shop um und entdecken Sie die Vielfalt an Badewannen und Zubeh\u00f6r. Wir sind sicher, dass Sie bei uns das perfekte Produkt f\u00fcr Ihr Badezimmer finden werden."
+          },
+          {
+            "title": "Badewannen-Zubeh\u00f6r",
+            "text": "<a href=\"/kategorie/badewannen-zubehoer/\" title=\"Badewannen-Zubeh\u00f6r\">Badewannen-Zubeh\u00f6r</a> ist eine wichtige Kategorie f\u00fcr alle, die ihr Bad modernisieren oder aufwerten m\u00f6chten. Hier finden Sie alles, was Sie f\u00fcr den t\u00e4glichen Gebrauch ben\u00f6tigen, wie Griffe, \u00dcberlaufgarnituren, Ablaufst\u00f6psel und vieles mehr. Jedes Produkt ist sorgf\u00e4ltig ausgew\u00e4hlt und bietet eine hervorragende Qualit\u00e4t zu einem angemessenen Preis. \u00dcberzeugen Sie sich selbst von unserem breiten Sortiment an Badewannen-Zubeh\u00f6r."
+          },
+          {
+            "title": "Wannentr\u00e4ger",
+            "text": "<a href=\"/kategorie/wannentraeger/\" title=\"Wannentr\u00e4ger\">Wannentr\u00e4ger</a> sind ein wesentlicher Bestandteil einer jeden Badewanne. Sie stellen sicher, dass Ihre Wanne stabil und sicher montiert ist. In unserer Kategorie Wannentr\u00e4ger finden Sie eine gro\u00dfe Auswahl an verschiedenen Modellen, die auf jeden Bedarf und jeden Einrichtungsstil abgestimmt sind. Ob Sie einen klassischen oder modernen Stil bevorzugen, wir haben die passenden Wannentr\u00e4ger f\u00fcr Sie. \u00dcberzeugen Sie sich jetzt von unserer hohen Qualit\u00e4t und dem fairen Preis."
+          },
+          {
+            "title": "Ovale Badewannen",
+            "text": "<a href=\"/kategorie/ovale-badewannen/\" title=\"Ovale Badewannen\">Ovale Badewannen</a> sind eine elegante und stilvolle Erg\u00e4nzung f\u00fcr jedes Badezimmer. Sie bieten eine angenehme und bequeme Sitzposition und eignen sich perfekt f\u00fcr entspannte Badepausen. In unserer Kategorie Ovale Badewannen finden Sie eine gro\u00dfe Auswahl an verschiedenen Gr\u00f6\u00dfen und Designs, die jedem Bedarf und jedem Einrichtungsstil entsprechen. Entdecken Sie jetzt die Vielfalt an ovalen Badewannen und finden Sie die perfekte Wanne f\u00fcr Ihr Badezimmer."
+          },
+          {
+            "title": "Rechteck-Badewannen",
+            "text": "<a href=\"/kategorie/rechteck-badewannen/\" title=\"Rechteck-Badewannen\">Rechteck-Badewannen</a> sind eine perfekte Wahl f\u00fcr jedes Badezimmer. Sie bieten eine ger\u00e4umige und bequeme Badem\u00f6glichkeit und passen zu jedem Einrichtungsstil. In unserer Kategorie Rechteck-Badewannen finden Sie eine gro\u00dfe Auswahl an verschiedenen Gr\u00f6\u00dfen und Designs, die jedem Bedarf und jedem Budget entsprechen. Entdecken Sie jetzt die Vielfalt an rechteckigen Badewannen und finden Sie die perfekte Wanne f\u00fcr Ihr Badezimmer."
+          },
+          {
+            "title": "Eckbadewannen",
+            "text": "<a href=\"/kategorie/eckbadewannen/\" title=\"Eckbadewannen\">Eckbadewannen</a> sind eine clevere L\u00f6sung f\u00fcr kleine Badezimmer, da sie Platz sparen und gleichzeitig eine bequeme Badem\u00f6glichkeit bieten. In unserer Kategorie Eckbadewannen finden Sie eine gro\u00dfe Auswahl an verschiedenen Gr\u00f6\u00dfen und Designs, die jedem Bedarf und jedem Einrichtungsstil entsprechen. Entdecken Sie jetzt die Vielfalt an Eckbadewannen und finden Sie die perfekte Wanne f\u00fcr Ihr Badezimmer."
+          },
+          {
+            "title": "Badewannenaufs\u00e4tze",
+            "text": "<a href=\"/kategorie/badewannenaufsaetze/\" title=\"Badewannenaufs\u00e4tze\">Badewannenaufs\u00e4tze</a> sind eine praktische und bequeme Erg\u00e4nzung f\u00fcr Ihre Badewanne. Sie erm\u00f6glichen es Ihnen, bequem im Stehen zu duschen und sparen Platz im Badezimmer. In unserer Kategorie Badewannenaufs\u00e4tze finden Sie eine gro\u00dfe Auswahl an verschiedenen Modellen, die auf jeden Bedarf und jeden Einrichtungsstil abgestimmt sind. Entdecken Sie jetzt die Vielfalt an Badewannenaufs\u00e4tzen und finden Sie die perfekte Erg\u00e4nzung f\u00fcr Ihre Badewanne."
+          },
+          {
+            "title": "Haarsiebe",
+            "text": "<a href=\"/kategorie/haarsiebe/\" title=\"Haarsiebe\">Haarsiebe</a> sind ein unverzichtbarer Bestandteil jeder Dusche oder Badewanne. Sie verhindern, dass Haare und andere Ablagerungen in den Abfluss gelangen und sorgen so f\u00fcr einen reibungslosen Ablauf. In unserer Kategorie Haarsiebe finden Sie eine gro\u00dfe Auswahl an verschiedenen Modellen, die auf jeden Bedarf und jeden Einrichtungsstil abgestimmt sind. Entdecken Sie jetzt die Vielfalt an Haarsieben und finden Sie das perfekte Modell f\u00fcr Ihr Badezimmer."
+          },
+          {
+            "title": "Freistehende Badewannen",
+            "text": "<a href=\"/kategorie/freistehende-badewannen/\" title=\"Freistehende Badewannen\">Freistehende Badewannen</a> sind eine stilvolle und moderne Erg\u00e4nzung f\u00fcr jedes Badezimmer. Sie bieten eine angenehme und bequeme Badem\u00f6glichkeit und k\u00f6nnen frei im Raum platziert werden. In unserer Kategorie Freistehende Badewannen finden Sie eine gro\u00dfe Auswahl an verschiedenen Gr\u00f6\u00dfen und Designs, die jedem Bedarf und jedem Einrichtungsstil entsprechen. Entdecken Sie jetzt die Vielfalt an freistehenden Badewannen und finden Sie die perfekte Wanne f\u00fcr Ihr Badezimmer."
+          },
+          {
+            "title": "Whirlpool-Badewannen",
+            "text": "<a href=\"/kategorie/whirlpool-badewannen/\" title=\"Whirlpool-Badewannen\">Whirlpool-Badewannen</a> sind eine luxuri\u00f6se und entspannende Erg\u00e4nzung f\u00fcr jedes Badezimmer. Sie bieten eine Massagefunktion und eine bequeme Badem\u00f6glichkeit. In unserer Kategorie Whirlpool-Badewannen finden Sie eine gro\u00dfe Auswahl an verschiedenen Gr\u00f6\u00dfen und Designs, die jedem Bedarf und jedem Einrichtungsstil entsprechen. Entdecken Sie jetzt die Vielfalt an Whirlpool-Badewannen und finden Sie die perfekte Wanne f\u00fcr Ihr Badezimmer."
+          },
+          {
+            "title": "Badewannenst\u00f6psel",
+            "text": "<a href=\"/kategorie/badewannenstoepsel/\" title=\"Badewannenst\u00f6psel\">Badewannenst\u00f6psel</a> sind ein wichtiger Bestandteil jeder Badewanne. Sie verhindern, dass Wasser aus der Wanne abl\u00e4uft und sorgen so f\u00fcr ein angenehmes Bad. In unserer Kategorie Badewannenst\u00f6psel finden Sie eine gro\u00dfe Auswahl an verschiedenen Modellen, die auf jeden Bedarf und jeden Einrichtungsstil abgestimmt sind. Entdecken Sie jetzt die Vielfalt an Badewannenst\u00f6pseln und finden Sie den perfekten St\u00f6psel f\u00fcr Ihre Badewanne."
+          },
+          {
+            "title": "Badewannenf\u00fc\u00dfe",
+            "text": "<a href=\"/kategorie/badewannenfuesse/\" title=\"Badewannenf\u00fcsse\">Badewannenf\u00fcsse</a> sind ein wesentlicher Bestandteil jeder Badewanne. Sie stellen sicher, dass Ihre Wanne stabil und sicher montiert ist. In unserer Kategorie Badewannenf\u00fc\u00dfe finden Sie eine gro\u00dfe Auswahl an verschiedenen Modellen, die auf jeden Bedarf und jeden Einrichtungsstil abgestimmt sind. Ob Sie einen klassischen oder modernen Stil bevorzugen, wir haben die passenden Badewannenf\u00fc\u00dfe f\u00fcr Sie. \u00dcberzeugen Sie sich jetzt von unserer hohen Qualit\u00e4t und dem fairen Preis."
+          },
+          {
+            "title": "Duschbadewannen",
+            "text": "<a href=\"/kategorie/duschbadewannen/\" title=\"Duschbadewannen\">Duschbadewannen</a> sind eine praktische und bequeme Erg\u00e4nzung f\u00fcr jedes Badezimmer. Sie erm\u00f6glichen es Ihnen, bequem zu duschen und gleichzeitig ein angenehmes Bad zu genie\u00dfen. In unserer Kategorie Duschbadewannen finden Sie eine gro\u00dfe Auswahl an verschiedenen Gr\u00f6\u00dfen und Designs, die jedem Bedarf und jedem Einrichtungsstil entsprechen. Entdecken Sie jetzt die Vielfalt an Duschbadewannen und finden Sie die perfekte Wanne f\u00fcr Ihr Badezimmer."
+          },
+          {
+            "title": "Raumsparwannen",
+            "text": "<a href=\"/kategorie/raumsparwannen/\" title=\"Raumsparwannen\">Raumsparwannen</a> sind eine praktische und platzsparende L\u00f6sung f\u00fcr kleine Badezimmer. Sie bieten eine angenehme Badem\u00f6glichkeit und sparen gleichzeitig wertvollen Platz. In unserer Kategorie Raumsparwannen finden Sie eine gro\u00dfe Auswahl an verschiedenen Gr\u00f6\u00dfen und Designs, die auf jeden Bedarf und jeden Einrichtungsstil abgestimmt sind. Entdecken Sie jetzt die Vielfalt an Raumsparwannen und finden Sie die perfekte Wanne f\u00fcr Ihr kleines Badezimmer."
+          },
+          {
+            "title": "Weiteres Badewannen-Zubeh\u00f6r",
+            "text": "Das Weitere Badewannen-Zubeh\u00f6r ist ein unverzichtbarer Bestandteil jeder Badewanne. Es sorgt f\u00fcr mehr Komfort und Sicherheit beim Baden. In unserer Kategorie <a href=\"/kategorie/weiteres-badewannen-zubehoer/\" title=\"Weiteres Badewannen-Zubeh\u00f6r\">Weiteres Badewannen-Zubeh\u00f6r</a> finden Sie eine gro\u00dfe Auswahl an verschiedenen Modellen, die auf jeden Bedarf und jeden Einrichtungsstil abgestimmt sind. Entdecken Sie jetzt die Vielfalt an weiterem Badewannen-Zubeh\u00f6r und finden Sie das perfekte Modell f\u00fcr Ihre Badewanne."
+          },
+          {
+            "title": "Wannensch\u00fcrzen",
+            "text": "<a href=\"/kategorie/wannenschuerzen/\" title=\"Wannensch\u00fcrzen\">Wannensch\u00fcrzen</a> sind eine praktische und stilvolle Erg\u00e4nzung f\u00fcr jede Badewanne. Sie sch\u00fctzen die Umgebung vor Spritzwasser und sorgen f\u00fcr ein angenehmes Bad. In unserer Kategorie Wannensch\u00fcrzen finden Sie eine gro\u00dfe Auswahl an verschiedenen Gr\u00f6\u00dfen und Designs, die auf jeden Bedarf und jeden Einrichtungsstil abgestimmt sind. Entdecken Sie jetzt die Vielfalt an Wannensch\u00fcrzen und finden Sie die perfekte Sch\u00fcrze f\u00fcr Ihre Badewanne."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE | Badewannenwelt24",
-        "defaultMetaDescription": "$KATEGORIE - Finde die perfekte Badewanne und Zubehör für dein Zuhause. Wir bieten eine große Auswahl an Badewannen in verschiedenen Größen, Formen und Designs.",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "Badewannen Shop \u00dcbersicht",
+      "metaDescription": "Der Shop bietet eine gro\u00dfe Auswahl an Badewannen in verschiedenen Gr\u00f6\u00dfen, Formen und Ausf\u00fchrungen. Top Marken und top Preise. Schnelle Lieferung.",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "Produkte von $HERSTELLER | Badewannenwelt24",
-        "defaultMetaDescription": "$HERSTELLER ist ein Hersteller für Badewannen und Badewannen-Zubehör. Vergleichen Sie Badewannen von $HERSTELLER mit anderen Herstellern.",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Badewannen",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Badewannen Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Badewannen Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "\u00dcbersicht aller Badewannen-Hersteller und deren Produkte",
+      "metaDescription": "Badewannen-Hersteller: Finden Sie die besten Badewannen-Hersteller in Deutschland und bestellen Sie online. Vergleichen Sie Preise, Leistungen und Bewertungen.",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT | Badewannenwelt24",
+    "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Wahl f\u00fcr Ihr Badezimmer. Wir bieten Ihnen eine gro\u00dfe Auswahl aus der Kategorie $KATEGORIE.",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE | Badewannenwelt24",
+    "defaultMetaDescription": "$KATEGORIE - Finde die perfekte Badewanne und Zubeh\u00f6r f\u00fcr dein Zuhause. Wir bieten eine gro\u00dfe Auswahl an Badewannen in verschiedenen Gr\u00f6\u00dfen, Formen und Designs.",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "Produkte von $HERSTELLER | Badewannenwelt24",
+    "defaultMetaDescription": "$HERSTELLER ist ein Hersteller f\u00fcr Badewannen und Badewannen-Zubeh\u00f6r. Vergleichen Sie Badewannen von $HERSTELLER mit anderen Herstellern.",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "Badewannen",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Badewannen Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "Badewannen Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
